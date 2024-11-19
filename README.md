@@ -1,12 +1,12 @@
-KLAX High & Low Temps 🌤️✨
+# KLAX High & Low Temps 🌤️✨
 Get ready to slay the weather game with KLAX realness. This Python script fetches today’s highs and lows for Los Angeles International Airport (KLAX), delivering accurate and stylish updates straight from the National Weather Service API. Whether you’re jet-setting, planning your day, or just vibing with LA skies, this script has you covered—no worries, just the facts, with a touch of fun.
 
 📋
-Real-Time Weather Tea: Pulls live, up-to-date high and low temperatures directly from the National Weather Service API.
+# Real-Time Weather Tea: Pulls live, up-to-date high and low temperatures directly from the National Weather Service API.
 Day/Night Breakdown: Clearly separates daytime highs and nighttime lows for easy interpretation and better planning.
 Error Handling That Slays: If something goes wrong, the script keeps it classy with detailed error messages—no shade, just solutions.
 Receipts Included: Logs every script run in run_timestamps.txt, bec
-🛠️ Prerequisites
+# 🛠️ Prerequisites
 Before diving into KLAX weather realness, make sure you’ve got the essentials:
 
 Python 3.6 or higher installed on your system.
@@ -48,7 +48,7 @@ TIM
 ``
 Replace your_email@example.com with your actual email address (the National Weather Service requires this—keep it professional).
 
-Run the Script: Fire up your terminal and execute:
+# Run the Script: Fire up your terminal and execute:
 
 bash
 Copy code
@@ -69,11 +69,12 @@ Timestamp saved:
 ``
 Additionally, a timestamp of every run is saved in run_timestamps.txt—because every execution deserves its moment in the spotlight.
 
-🎨 Who’s It For?
+# 🎨 Who’s It For?
 Frequent Flyers: Plan your travels with KLAX weather at your fingertips.
 Fashionistas & Planners: Dress to impress and pack smart with precise forecasts.
 Weather Enthusiasts: Stay on top of LA’s ever-iconic skies.
 The Curious & Fabulous: Because knowing the vibe of the skies is always a mood.
-🌈 License
+
+# 🌈 License
 This project is licensed under the MIT License. Use it, share it, and enjoy it!
 
